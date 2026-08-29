@@ -1,4 +1,4 @@
-# A Survey on Probabilistic Time Series and Spatiotemporal Forecasting
+# Beyond Point Forecasts: A Survey on Probabilistic Time Series and Spatiotemporal Forecasting
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
