@@ -1,4 +1,4 @@
-# Beyond Point Forecasts: A Survey on Probabilistic Time Series and Spatiotemporal Forecasting
+# Beyond Point Forecasts: A Survey on Probabilistic Forecasting for Time Series and Spatiotemporal Data
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -51,7 +51,7 @@ If you find this survey, code, or benchmark useful in your research, please cons
 
 ```bibtex
 @article{besher2026probabilistic,
-  title={A Survey on Probabilistic Time Series and Spatiotemporal Forecasting: Methods, Practical Guidance, and Open Challenges},
+  title={Beyond Point Forecasts: A Survey on Probabilistic Forecasting for Time Series and Spatiotemporal Data},
   author={Besher, Donia and Pathak, Rajdeep and Panja, Madhurima and Chakraborty, Tanujit},
   journal={Preprint},
   year={2026}
