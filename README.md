@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This repository contains the empirical benchmarks, codes, and figures for the paper **"A Survey on Probabilistic Time Series and Spatiotemporal Forecasting: Methods, Practical Guidance, and Open Challenges"** by Donia Besher, Rajdeep Pathak, Madhurima Panja, and Tanujit Chakraborty.
+This repository contains the empirical benchmarks, codes, and figures for the paper **"Beyond Point Forecasts: A Survey on Probabilistic Forecasting for Time Series and Spatiotemporal Data"** by Donia Besher, Rajdeep Pathak, Madhurima Panja, and Tanujit Chakraborty.
 
 ## 📖 Overview
 
