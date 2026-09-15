@@ -1,6 +1,6 @@
 # Beyond Point Forecasts: A Survey on Probabilistic Forecasting for Time Series and Spatiotemporal Data
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Paper](https://img.shields.io/badge/arXiv-Preprint-b31b1b.svg)](https://arxiv.org/abs/2609.13345) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This repository contains the empirical benchmarks, codes, and figures for the paper **"Beyond Point Forecasts: A Survey on Probabilistic Forecasting for Time Series and Spatiotemporal Data"** by Donia Besher, Rajdeep Pathak, Madhurima Panja, and Tanujit Chakraborty.
 
