@@ -53,7 +53,7 @@ If you find this survey, code, or benchmark useful in your research, please cons
 @article{besher2026probabilistic,
   title={Beyond Point Forecasts: A Survey on Probabilistic Forecasting for Time Series and Spatiotemporal Data},
   author={Besher, Donia and Pathak, Rajdeep and Panja, Madhurima and Chakraborty, Tanujit},
-  journal={Preprint},
+  journal={arXiv preprint arXiv:2609.13345},
   year={2026}
 }
 ```
