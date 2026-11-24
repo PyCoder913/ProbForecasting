@@ -47,13 +47,13 @@ The benchmark evaluates both point and probabilistic metrics, emphasizing calibr
 
 ## 📝 Citation
 
-If you find this survey, code, or benchmark useful in your research, please consider citing our paper:
+If you find this survey, code, or benchmark useful in your research, please consider citing our TMLR paper:
 
 ```bibtex
 @article{besher2026probabilistic,
   title={Beyond Point Forecasts: A Survey on Probabilistic Forecasting for Time Series and Spatiotemporal Data},
   author={Besher, Donia and Pathak, Rajdeep and Panja, Madhurima and Chakraborty, Tanujit},
-  journal={arXiv preprint arXiv:2609.13345},
+  journal={Transactions on Machine Learning Research},
   year={2026}
 }
 ```
